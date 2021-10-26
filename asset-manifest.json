@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ra-hooks-context-use-json-fetch/static/css/main.d6569fad.chunk.css",
+    "main.js": "/ra-hooks-context-use-json-fetch/static/js/main.ebb56919.chunk.js",
+    "main.js.map": "/ra-hooks-context-use-json-fetch/static/js/main.ebb56919.chunk.js.map",
+    "runtime-main.js": "/ra-hooks-context-use-json-fetch/static/js/runtime-main.0cb34b39.js",
+    "runtime-main.js.map": "/ra-hooks-context-use-json-fetch/static/js/runtime-main.0cb34b39.js.map",
+    "static/js/2.e425e322.chunk.js": "/ra-hooks-context-use-json-fetch/static/js/2.e425e322.chunk.js",
+    "static/js/2.e425e322.chunk.js.map": "/ra-hooks-context-use-json-fetch/static/js/2.e425e322.chunk.js.map",
+    "static/js/3.19acafd6.chunk.js": "/ra-hooks-context-use-json-fetch/static/js/3.19acafd6.chunk.js",
+    "static/js/3.19acafd6.chunk.js.map": "/ra-hooks-context-use-json-fetch/static/js/3.19acafd6.chunk.js.map",
+    "index.html": "/ra-hooks-context-use-json-fetch/index.html",
+    "static/css/main.d6569fad.chunk.css.map": "/ra-hooks-context-use-json-fetch/static/css/main.d6569fad.chunk.css.map",
+    "static/js/2.e425e322.chunk.js.LICENSE.txt": "/ra-hooks-context-use-json-fetch/static/js/2.e425e322.chunk.js.LICENSE.txt",
+    "static/media/loading.65bbecad.gif": "/ra-hooks-context-use-json-fetch/static/media/loading.65bbecad.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cb34b39.js",
+    "static/js/2.e425e322.chunk.js",
+    "static/css/main.d6569fad.chunk.css",
+    "static/js/main.ebb56919.chunk.js"
+  ]
+}

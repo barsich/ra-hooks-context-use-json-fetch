@@ -1,1 +1,1 @@
-# ra-hooks-context-use-json-fetch
+# ra-hooks-context-use-json-fetch [![Build status](https://ci.appveyor.com/api/projects/status/r40kvg4592jg7b3c?svg=true)](https://ci.appveyor.com/project/barsich/ra-hooks-context-use-json-fetch)
